@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html class="bootstrap-admin-vertical-centered">
     <head>
-        <title>Login :: Codeigniter</title>
+        <title>Login :: Codeigniter</title> 
+        <!-- This Tittle page --> 
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" type="image/png" href="<?=base_url();?>assets/images/ci-icon.png" />
