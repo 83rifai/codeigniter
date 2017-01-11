@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html class="bootstrap-admin-vertical-centered">
     <head>
-        <title>Login page | Bootstrap 3.x Admin Theme</title>
+        <title>Login :: Codeigniter</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/png" href="<?=base_url();?>assets/images/ci-icon.png" />
 
         <!-- Bootstrap -->
         <link rel="stylesheet" media="screen" href="<?=base_url();?>assets/css/bootstrap.min.css">
